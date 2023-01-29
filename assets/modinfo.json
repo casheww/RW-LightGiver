@@ -1,0 +1,11 @@
+﻿{
+  "id": "casheww.lightgiver",
+  "name": "LightGiver",
+  "version": "0.2.0",
+  "target_game_version": "v1.9.03",
+  "authors": "casheww, fyre",
+  "description": "Encourages the guide to shine a light for the player if they have a lantern in their stomach",
+  "requirements": [],
+  "requirements_names": [],
+  "checksum_override_version": false
+}
